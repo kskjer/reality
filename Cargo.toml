@@ -1,0 +1,24 @@
+[workspace]
+members = [
+    "lib/reality-mips",
+    "lib/reality-mips-assembler",
+    "lib/reality-mips-isa-specification",
+    "lib/reality-mupen-core",
+    "lib/reality-ultra",
+    "lib/reality-util",
+    "lib/reality-zelda",
+    "bin/disasm-file",
+    "bin/disasm-rom",
+    "bin/file-list",
+    "bin/fix-crc",
+    "bin/ovl-dump",
+    "bin/rom-to-be",
+    "bin/rom-to-v64",
+    "bin/trace-file",
+    "bin/yoshi-ovl",
+    "dylib/reality-mupen"
+]
+
+[profile.release]
+opt-level = 3
+#lto = true

@@ -1,0 +1,12 @@
+!*
+mupen64plus-core/src/asm_defines
+#mupen64plus-core/projects/VisualStudio2013/Debug
+#mupen64plus-core/projects/VisualStudio2013/Release
+#mupen64plus-ui-console/projects/VisualStudio2013/_Release
+#mupen64plus-ui-console/projects/VisualStudio2013/Release
+#mupen64plus-ui-console/projects/VisualStudio2013/Debug
+*/projects/VisualStudio2013/Release
+*/projects/VisualStudio2013/Debug
+*/projects/VisualStudio2013/_Release
+.vs
+*.user
